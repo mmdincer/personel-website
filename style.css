@@ -1,0 +1,149 @@
+body
+{
+    font-family: 'Righteous', sans-serif;
+    font-size:large;
+}
+
+.navbar
+{
+    border-style: solid;
+    border-width: 0px 0px 5px 0px;
+
+}
+
+.navbar-brand {
+    font-size: 50px; 
+}
+
+.nav-item
+{
+    margin:10px;
+}
+
+main
+{
+    background-color: #4bdf80;
+}
+
+.col-8 
+{
+    background-color: #f87171;
+    border-style: solid;
+    border-width: 0px 7px 7px 0px;
+    border-radius: 15px;
+}
+
+#seeButton 
+{
+    border-style: solid;
+    border-width: 1px 7px 7px 1px;
+    border-radius: 15px;
+}
+#info 
+{
+    border-style: solid;
+    border-width: 0px 7px 7px 0px;
+    border-radius: 15px;
+}
+
+
+#busy
+{
+    background-color: #38bdf8;
+    border-style: solid;
+    border-width: 0px 7px 7px 0px;
+    border-radius: 15px;
+
+}
+
+.list-inline-item
+{
+    text-align: center;
+    margin: 5px;
+    background-color: #fff;
+    border-style: solid;
+    border-width: 0px 5px 5px 0px;
+    border-radius: 25px;
+}
+
+#whoami
+{
+    background-color: #fea501;
+    border-style: solid;
+    border-width: 0px 7px 7px 0px;
+    border-radius: 15px;
+}
+
+#image {
+    margin-top: 50px;
+    margin-left: 165px;
+    margin-bottom: 50px;
+    border-style: solid;
+    border-width: 0px 7px 7px 0px;
+    border-radius: 15px;
+}
+
+#projects
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 120px;
+    border-style: solid;
+    border-width: 0px 7px 7px 0px;
+    border-radius: 15px;
+    background-color: #a78afb;
+}
+
+#index-card
+{
+    height: 600px;
+    border: black;
+    border-style:solid;
+    border-width: 0px 7px 7px 0px;
+    border-radius: 15px;
+}
+
+#oku 
+{
+    position: absolute;
+    bottom: 5px;
+    border-style: solid;
+    border-width: 1px 7px 7px 1px;
+    border-radius: 15px;
+}
+
+#blogpostsLink
+{
+    position: absolute;
+    right: 130px;
+    margin-top: 5px;
+    border-style: solid;
+    border-width: 1px 7px 7px 1px;
+    border-radius: 15px;
+}
+
+#blog-card
+{
+    background-color: #60a4fb;
+}
+
+#blog-list-item
+{
+    margin-left: 100px;
+    margin-top: 50px;
+}
+
+#blog-oku
+{    
+    width: 250px;
+    position: absolute;
+    bottom: 2px;
+    right: 15px;
+    border-style: solid;
+    border-width: 1px 7px 7px 1px;
+    border-radius: 15px;
+
+}
